@@ -1,0 +1,7 @@
+tensorflow-gpu==2.3.1
+transformers==3.2.0
+scikit_learn==1.0
+scipy==1.7.1
+numpy==1.18.5
+jieba==0.42.1
+tqdm==4.62.5

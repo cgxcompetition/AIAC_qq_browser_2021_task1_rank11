@@ -1,0 +1,9 @@
+tensorflow-gpu==2.3.1
+transformers==3.2.0
+sklearn
+pathlib
+tqdm
+jieba
+pandas
+numpy
+scipy
